@@ -12,7 +12,7 @@
 ```csharp
 namespace Hayat {
     class Hasan {
-        string isim      = "Hasan Can Göz";
+        string isim      = "Hasan Can Güzel";
         string konum     = "Türkiye 🇹🇷";
         string odak      = "C# & .NET";
         string durum     = "Her gün biraz daha iyi olmaya çalışıyorum";
