@@ -58,15 +58,6 @@ namespace Hayat {
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasancangz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6dbf67&icon_color=6dbf67&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancangz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6dbf67&text_color=ffffff)
-
-</div>
 
 ---
 
