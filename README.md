@@ -1,16 +1,86 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hasancangz/hasancangz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗ ██████╗ █████╗ ███╗   ██╗ ██████╗ ███████╗
+██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║██╔════╝██╔══██╗████╗  ██║██╔════╝ ╚══███╔╝
+███████║███████║███████╗███████║██╔██╗ ██║██║     ███████║██╔██╗ ██║██║  ███╗  ███╔╝ 
+██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║██║     ██╔══██║██║╚██╗██║██║   ██║ ███╔╝  
+██║  ██║██║  ██║███████║██║  ██║██║ ╚████║╚██████╗██║  ██║██║ ╚████║╚██████╔╝███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
+```
 
-Here are some ideas to get you started:
+### `> yazılım öğrencisi`  `> sürekli öğreniyorum`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+</div>
+
+## 🖥️ Hakkımda
+
+```csharp
+namespace Hayat {
+    class Hasan {
+        string isim      = "Hasan Can Güzel";
+        string konum     = "Türkiye 🇹🇷";
+        string odak      = "C# & .NET";
+        string durum     = "Her gün biraz daha iyi olmaya çalışıyorum";
+
+        string[] ilgiler = {
+            "Masaüstü Uygulamaları",
+            "Sistem Programlama",
+            "Yazılım Mimarisi"
+        };
+    }
+}
+```
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+## 📁 Projelerim
+
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| 🏥 [Hastane-Otomasyonu](https://github.com/hasancangz/Hastane-Otomasyonu) | Hastane yönetim sistemi | C# |
+| 🏦 [ATM](https://github.com/hasancangz/ATM) | ATM simülasyonu | C# |
+| 📚 [Library](https://github.com/hasancangz/Library) | Kütüphane yönetim sistemi | C# |
+| 💪 [Gym](https://github.com/hasancangz/Gym) | Spor salonu yönetimi | C# |
+| 🛒 [OrderSystem](https://github.com/hasancangz/OrderSystem) | Sipariş yönetim sistemi | C# |
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasancangz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6dbf67&icon_color=6dbf67&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancangz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6dbf67&text_color=ffffff)
+
+</div>
+
+---
+
+## 🌱 Şu An Ne Öğreniyorum?
+
+- 🔧 **.NET** ekosistemini daha derinlemesine keşfediyorum
+- 🗄️ **Veritabanı** mimarileri üzerine çalışıyorum  
+- 🧱 **Tasarım Desenleri** (Design Patterns) öğreniyorum
+
+---
+
+<div align="center">
+
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=hasancangz&color=6dbf67&style=flat-square&label=Profil+Görüntüleme)
+
+</div>
