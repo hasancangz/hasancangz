@@ -2,7 +2,6 @@
 
 ![hasancangz](https://raw.githubusercontent.com/hasancangz/hasancangz/main/hasancangz_banner.svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=D4722A&center=true&vCenter=true&width=600&lines=yazılım+öğrencisi+%2F%2F+C%23+sevdalısı;her+gün+biraz+daha+iyi+olmaya+çalışıyorum;%3E+kod+yaz+%3E+öğren+%3E+tekrarla" alt="Typing SVG" />
 
 ---
 
@@ -13,7 +12,7 @@
 ```csharp
 namespace Hayat {
     class Hasan {
-        string isim      = "Hasan Can Güzel";
+        string isim      = "Hasan Can Göz";
         string konum     = "Türkiye 🇹🇷";
         string odak      = "C# & .NET";
         string durum     = "Her gün biraz daha iyi olmaya çalışıyorum";
@@ -53,20 +52,16 @@ namespace Hayat {
 
 ---
 
-
 ---
 
-## 🌱 Şu An Ne Öğreniyorum?
-
-- 🔧 **.NET** ekosistemini daha derinlemesine keşfediyorum
-- 🗄️ **Veritabanı** mimarileri üzerine çalışıyorum  
-- 🧱 **Tasarım Desenleri** (Design Patterns) öğreniyorum
+## 🎯 İlgi Alanlarım
+- 🌐 **Web Geliştirme** — ASP.NET öğreniyorum, backend tarafına ilgi duyuyorum
+- 🗄️ **Veritabanı** — EF Core & ADO.NET ile veri yönetimi üzerine çalışıyorum
+- 🧱 **Yazılım Mimarisi** — Temiz kod ve tasarım desenleri ilgimi çekiyor
 
 ---
 
 <div align="center">
-
-*"Kod yazmak sabır ister. Ben öğreniyorum."*
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=hasancangz&color=6dbf67&style=flat-square&label=Profil+Görüntüleme)
 
