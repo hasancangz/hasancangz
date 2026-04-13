@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=D4722A&center=true&vCenter=true&width=700&lines=██╗+██╗+█████╗+███████╗+█████╗+███╗+██╗+██████╗+█████╗+███╗+██╗+██████╗+███████╗;hasancangz" alt="hasancangz" />
+
 ```
 ██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗ ██████╗ █████╗ ███╗   ██╗ ██████╗ ███████╗
 ██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║██╔════╝██╔══██╗████╗  ██║██╔════╝ ╚══███╔╝
@@ -9,7 +11,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
 ```
 
-### `> yazılım öğrencisi`  `> sürekli öğreniyorum`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=D4722A&center=true&vCenter=true&width=600&lines=yazılım+öğrencisi+%2F%2F+C%23+sevdalısı;her+gün+biraz+daha+iyi+olmaya+çalışıyorum;%3E+kod+yaz+%3E+öğren+%3E+tekrarla" alt="Typing SVG" />
 
 ---
 
@@ -20,7 +22,7 @@
 ```csharp
 namespace Hayat {
     class Hasan {
-        string isim      = "Hasan Can Güzel";
+        string isim      = "Hasan Can Göz";
         string konum     = "Türkiye 🇹🇷";
         string odak      = "C# & .NET";
         string durum     = "Her gün biraz daha iyi olmaya çalışıyorum";
@@ -58,6 +60,15 @@ namespace Hayat {
 
 ---
 
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasancangz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6dbf67&icon_color=6dbf67&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancangz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6dbf67&text_color=ffffff)
+
+</div>
 
 ---
 
@@ -71,6 +82,7 @@ namespace Hayat {
 
 <div align="center">
 
+*"Kod yazmak sabır ister. Ben öğreniyorum."*
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=hasancangz&color=6dbf67&style=flat-square&label=Profil+Görüntüleme)
 
