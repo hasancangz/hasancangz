@@ -1,7 +1,10 @@
 <div align="center">
 
-![Uploading image.png…]()
+![hasancangz](https://raw.githubusercontent.com/hasancangz/hasancangz/main/hasancangz_banner.svg)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=D4722A&center=true&vCenter=true&width=600&lines=yazılım+öğrencisi+%2F%2F+C%23+sevdalısı;her+gün+biraz+daha+iyi+olmaya+çalışıyorum;%3E+kod+yaz+%3E+öğren+%3E+tekrarla" alt="Typing SVG" />
+
+---
 
 </div>
 
@@ -47,6 +50,7 @@ namespace Hayat {
 | 🛒 [OrderSystem](https://github.com/hasancangz/OrderSystem) | Sipariş yönetim sistemi | C# |
 
 ---
+
 
 ---
 
