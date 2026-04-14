@@ -90,7 +90,6 @@ namespace Life {
 var goal = new Goal {
     ShortTerm  = "Become a solid backend developer with ASP.NET Core",
     LongTerm   = "Build production-ready systems with clean, scalable architecture",
-    Motivation = "Understanding what runs behind the scenes — building the invisible"
 };
 ```
 
