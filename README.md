@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![hasancangz](https://raw.githubusercontent.com/hasancangz/hasancangz/main/hasancangz_banner.svg)
@@ -9,20 +8,20 @@
 
 </div>
 
-## 🖥️ Hakkımda
+## 🖥️ About Me
 
 ```csharp
-namespace Hayat {
+namespace Life {
     class Hasan {
-        string isim      = "Hasan Can Göz";
-        string konum     = "Türkiye 🇹🇷";
-        string odak      = "C# & .NET";
-        string durum     = "Her gün biraz daha iyi olmaya çalışıyorum";
+        string name       = "Hasan Can Güzel";
+        string location   = "Turkey 🇹🇷";
+        string focus      = "C# & .NET";
+        string status     = "Trying to get a little better every day";
 
-        string[] ilgiler = {
-            "Masaüstü Uygulamaları",
-            "Sistem Programlama",
-            "Yazılım Mimarisi"
+        string[] interests = {
+            "Desktop Application Development",
+            "Systems Programming",
+            "Software Architecture"
         };
     }
 }
@@ -30,7 +29,7 @@ namespace Hayat {
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -42,19 +41,19 @@ namespace Hayat {
 
 ---
 
-## 📁 Projelerim
+## 📁 My Projects
 
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| 🏥 [Hastane-Otomasyonu](https://github.com/hasancangz/Hastane-Otomasyonu) | Hastane yönetim sistemi | C# |
-| 🏦 [ATM](https://github.com/hasancangz/ATM) | ATM simülasyonu | C# |
-| 📚 [Library](https://github.com/hasancangz/Library) | Kütüphane yönetim sistemi | C# |
-| 💪 [Gym](https://github.com/hasancangz/Gym) | Spor salonu yönetimi | C# |
-| 🛒 [OrderSystem](https://github.com/hasancangz/OrderSystem) | Sipariş yönetim sistemi | C# |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏥 [Hastane-Otomasyonu](https://github.com/hasancangz/Hastane-Otomasyonu) | Hospital management system | C# |
+| 🏦 [ATM](https://github.com/hasancangz/ATM) | ATM simulation | C# |
+| 📚 [Library](https://github.com/hasancangz/Library) | Library management system | C# |
+| 💪 [Gym](https://github.com/hasancangz/Gym) | Gym management system | C# |
+| 🛒 [OrderSystem](https://github.com/hasancangz/OrderSystem) | Order management system | C# |
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -66,7 +65,7 @@ namespace Hayat {
 
 ---
 
-## 🧩 LeetCode İstatistiklerim
+## 🧩 LeetCode Stats
 
 <div align="center">
 
@@ -76,26 +75,29 @@ namespace Hayat {
 
 ---
 
-## 🎯 İlgi Alanlarım
-- 🌐 **Web Geliştirme** — ASP.NET öğreniyorum, backend tarafına ilgi duyuyorum
-- 🗄️ **Veritabanı** — EF Core & ADO.NET ile veri yönetimi üzerine çalışıyorum
-- 🧱 **Yazılım Mimarisi** — Temiz kod ve tasarım desenleri ilgimi çekiyor
+## 🎯 Interests
+
+- 🖥️ **Desktop Development** — Building apps with Windows Forms & WPF
+- 🌐 **Web Development** — Learning ASP.NET, passionate about backend
+- 🗄️ **Databases** — Working with EF Core & ADO.NET for data management
+- 🧱 **Software Architecture** — Clean code and design patterns fascinate me
 
 ---
 
-## 🚀 Hedefim
+## 🚀 My Goal
 
 ```csharp
-var hedef = new Hedef {
-    KısaVade  = "ASP.NET Core ile sağlam bir backend geliştirici olmak",
-    UzunVade  = "Ölçeklenebilir, temiz mimari ile production'a hazır sistemler kurmak",
+var goal = new Goal {
+    ShortTerm  = "Become a solid backend developer with ASP.NET Core",
+    LongTerm   = "Build production-ready systems with clean, scalable architecture",
+    Motivation = "Understanding what runs behind the scenes — building the invisible"
 };
 ```
 
 ---
 
+<div align="center">
 
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=hasancangz&color=6dbf67&style=flat-square&label=Profil+Görüntüleme)
+![Visitor Badge](https://komarev.com/ghpvc/?username=hasancangz&color=D4722A&style=flat-square&label=Profile+Views)
 
 </div>
