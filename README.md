@@ -77,8 +77,6 @@ namespace Hayat {
 ---
 
 ## 🎯 İlgi Alanlarım
-
-- 🖥️ **Masaüstü Uygulama Geliştirme** — Windows Forms & WPF ile uygulama geliştiriyorum
 - 🌐 **Web Geliştirme** — ASP.NET öğreniyorum, backend tarafına ilgi duyuyorum
 - 🗄️ **Veritabanı** — EF Core & ADO.NET ile veri yönetimi üzerine çalışıyorum
 - 🧱 **Yazılım Mimarisi** — Temiz kod ve tasarım desenleri ilgimi çekiyor
