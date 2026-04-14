@@ -3,7 +3,7 @@
 
 ![hasancangz](https://raw.githubusercontent.com/hasancangz/hasancangz/main/hasancangz_banner.svg)
 
-### `> yazılım öğrencisi` `// C# & .NET sevdalısı` `> her gün biraz daha iyi`
+
 
 ---
 
