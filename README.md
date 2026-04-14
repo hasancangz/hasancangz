@@ -89,7 +89,6 @@ namespace Hayat {
 var hedef = new Hedef {
     KısaVade  = "ASP.NET Core ile sağlam bir backend geliştirici olmak",
     UzunVade  = "Ölçeklenebilir, temiz mimari ile production'a hazır sistemler kurmak",
-    Motivasyon = "Arka planda ne döndüğünü anlamak — görünmeyeni inşa etmek"
 };
 ```
 
