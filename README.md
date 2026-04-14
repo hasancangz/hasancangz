@@ -1,7 +1,9 @@
+
 <div align="center">
 
 ![hasancangz](https://raw.githubusercontent.com/hasancangz/hasancangz/main/hasancangz_banner.svg)
 
+### `> yazılım öğrencisi` `// C# & .NET sevdalısı` `> her gün biraz daha iyi`
 
 ---
 
@@ -12,7 +14,7 @@
 ```csharp
 namespace Hayat {
     class Hasan {
-        string isim      = "Hasan Can Güzel";
+        string isim      = "Hasan Can Göz";
         string konum     = "Türkiye 🇹🇷";
         string odak      = "C# & .NET";
         string durum     = "Her gün biraz daha iyi olmaya çalışıyorum";
@@ -52,16 +54,50 @@ namespace Hayat {
 
 ---
 
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasancangz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4722A&icon_color=D4722A&text_color=ffffff&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancangz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4722A&text_color=ffffff&cache_seconds=1800)
+
+</div>
+
+---
+
+## 🧩 LeetCode İstatistiklerim
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hasancangz?theme=dark&font=Fira%20Code&ext=heatmap&border=0&bg_color=0d1117&text_color=ffffff&title_color=D4722A)
+
+</div>
+
 ---
 
 ## 🎯 İlgi Alanlarım
+
+- 🖥️ **Masaüstü Uygulama Geliştirme** — Windows Forms & WPF ile uygulama geliştiriyorum
 - 🌐 **Web Geliştirme** — ASP.NET öğreniyorum, backend tarafına ilgi duyuyorum
 - 🗄️ **Veritabanı** — EF Core & ADO.NET ile veri yönetimi üzerine çalışıyorum
 - 🧱 **Yazılım Mimarisi** — Temiz kod ve tasarım desenleri ilgimi çekiyor
 
 ---
 
-<div align="center">
+## 🚀 Hedefim
+
+```csharp
+var hedef = new Hedef {
+    KısaVade  = "ASP.NET Core ile sağlam bir backend geliştirici olmak",
+    UzunVade  = "Ölçeklenebilir, temiz mimari ile production'a hazır sistemler kurmak",
+    Motivasyon = "Arka planda ne döndüğünü anlamak — görünmeyeni inşa etmek"
+};
+```
+
+---
+
+
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=hasancangz&color=6dbf67&style=flat-square&label=Profil+Görüntüleme)
 
